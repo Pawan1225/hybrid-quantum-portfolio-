@@ -1,0 +1,5 @@
+Attribute,Description
+Number of Assets,25
+Data Frequency,"Daily prices, Monthly rebalancing"
+Evaluation Period,2021-04-30 to 2025-12-31
+Risk Metric Used,Annualized Portfolio Volatility
